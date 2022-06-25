@@ -52,10 +52,10 @@ function App() {
   return (
     <>
         <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/submit-proposal" element={<Submit />} />
-        <Route path="/vote" element={<Vote />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/dao" element={<Home />} />
+        <Route path="/dao/submit-proposal" element={<Submit />} />
+        <Route path="/dao/vote" element={<Vote />} />
+        <Route path="/dao/about" element={<About />} />
         </Routes>
         </>
   );
