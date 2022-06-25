@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dao/static/css/main.81dbf228.css",
-    "main.js": "/dao/static/js/main.e1ecb6c4.js",
+    "main.js": "/dao/static/js/main.62cfe074.js",
     "index.html": "/dao/index.html",
     "main.81dbf228.css.map": "/dao/static/css/main.81dbf228.css.map",
-    "main.e1ecb6c4.js.map": "/dao/static/js/main.e1ecb6c4.js.map"
+    "main.62cfe074.js.map": "/dao/static/js/main.62cfe074.js.map"
   },
   "entrypoints": [
     "static/css/main.81dbf228.css",
-    "static/js/main.e1ecb6c4.js"
+    "static/js/main.62cfe074.js"
   ]
 }
