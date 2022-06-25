@@ -1,0 +1,48 @@
+{
+  "homepage": "http://mkrasne2.github.io/dao",
+  "name": "mdb-react-template",
+  "version": "4.0.0",
+  "description": "template for mdb-react-ui-kit",
+  "private": true,
+  "dependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "bignumber.js": "^9.0.2",
+    "ethers": "^5.6.8",
+    "gh-pages": "^4.0.0",
+    "mdb-react-ui-kit": "^4.0.0",
+    "react": "^18.1.0",
+    "react-datetime-picker": "^3.5.0",
+    "react-dom": "^18.1.0",
+    "react-loading-spin": "^2.1.9",
+    "react-router-config": "^5.1.1",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "template",
+    "react"
+  ],
+  "author": "MDBootstrap",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
