@@ -23,18 +23,18 @@ import { MDBNavbar,
           <div className='collapse navbar-collapse' id='navbarExample01'>
             <MDBNavbarNav right className='mb-2 mb-lg-0'>
               <MDBNavbarItem active>
-                <MDBNavbarLink aria-current='page' href='/dao'>
+                <MDBNavbarLink aria-current='page' href='/'>
                   Home
                 </MDBNavbarLink>
               </MDBNavbarItem>
               <MDBNavbarItem>
-                <MDBNavbarLink href='/dao/submit-proposal'>Submit a Proposal</MDBNavbarLink>
+                <MDBNavbarLink href='/submit-proposal'>Submit a Proposal</MDBNavbarLink>
               </MDBNavbarItem>
               <MDBNavbarItem>
-                <MDBNavbarLink href='/dao/vote'>Vote on Proposals</MDBNavbarLink>
+                <MDBNavbarLink href='/vote'>Vote on Proposals</MDBNavbarLink>
               </MDBNavbarItem>
               <MDBNavbarItem>
-                <MDBNavbarLink href='/dao/about'>About</MDBNavbarLink>
+                <MDBNavbarLink href='/about'>About</MDBNavbarLink>
               </MDBNavbarItem>
             </MDBNavbarNav>
           </div>
