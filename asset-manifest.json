@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/newDAO/static/css/main.bf24f355.css",
+    "main.js": "/newDAO/static/js/main.a7216864.js",
+    "index.html": "/newDAO/index.html",
+    "main.bf24f355.css.map": "/newDAO/static/css/main.bf24f355.css.map",
+    "main.a7216864.js.map": "/newDAO/static/js/main.a7216864.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf24f355.css",
+    "static/js/main.a7216864.js"
+  ]
+}
