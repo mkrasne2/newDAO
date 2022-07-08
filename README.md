@@ -18,4 +18,4 @@ Here are a few specifications I used to enable DAO participation, as well as how
 - Given MetaMask phasing out certain functions that previously made it easier to detect if a user was already connected to the app, I found it difficult to automatically render blockchain data to users who were already connected without auto-prompting users who are not signed in to sign in. I unfortunately settled for the auto-prompt option.
 - I had originally toyed with using an Infura or Moralis free node to serve data through the RPC provider option, but I found myself running out of API bandwidth using the free options.
 
-
+Try it out here: https://mkrasne2.github.io/newDAO/
